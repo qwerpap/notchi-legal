@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qwerpap.github.io/notchi-legal/sitemap.xml

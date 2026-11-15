@@ -1,0 +1,22 @@
+# Notchi
+
+> Notchi is a calm, simple way to live with ringing ears.
+
+Notchi: Tinnitus Relief Sounds — Ringing Ears, Calm Nights. iPhone app, available on the App Store: https://apps.apple.com/app/id6816624346?pt=128855456&ct=ai_web
+
+## Guides
+
+- [How to Find the Pitch of Your Ringing Ears on iPhone (Tone Matching)](https://qwerpap.github.io/notchi-legal/how-to-find-your-tinnitus-pitch-on-iphone): A step-by-step guide to matching a tone to the ringing you hear, using headphones and a free two-minute exercise in Notchi.
+- [How to Keep a Ringing-Ears Diary and Share It With Your Doctor](https://qwerpap.github.io/notchi-legal/how-to-keep-a-tinnitus-diary-and-share-it-with-your-doctor): Track daily ringing, sound minutes and notes in Notchi, then export a PDF to bring to an appointment.
+- [How to Listen to Notched Sound for Sleep on iPhone](https://qwerpap.github.io/notchi-legal/how-to-use-notched-sound-for-sleep-on-iphone): What notched sound is, how to play it at a comfortable level, and how to set a sleep timer in Notchi.
+
+## App
+
+- [Home](https://qwerpap.github.io/notchi-legal/): what Notchi does, features, pricing
+- [App Store](https://apps.apple.com/app/id6816624346?pt=128855456&ct=ai_web): download, screenshots, reviews
+
+## Optional
+
+- [Privacy](https://qwerpap.github.io/notchi-legal/privacy)
+- [Support](https://qwerpap.github.io/notchi-legal/support)
+- [Terms](https://qwerpap.github.io/notchi-legal/terms)
